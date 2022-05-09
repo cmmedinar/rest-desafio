@@ -195,7 +195,6 @@ export default class UserController {
           console.log(error);
   }
 }
-
   }
 
 }
